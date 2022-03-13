@@ -17,7 +17,18 @@ I'm a lawyer. I'm interested in world politics, economics, and social processes.
 + VS Code
 
 ## **Code Example**
+```
+function highAndLow(numbers) {
+    let arr = numbers.split(' ');
+    return Math.max.apply(null, arr) + ' ' + Math.min.apply(null, arr);
+}
+```
 ## **Education** 
-I graduated from the Belarusian State University with a degree in law.
-## **Experience**
++ I graduated from the Belarusian State University with a degree in law.
++ JS Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
++ HTML and JS Course on [ru.code-basics.com](https://ru.code-basics.com/) 
 ## **Language**
++ Russian 
++ Belarusian
++ English (B1, Minsk state linguistic university course)
+
