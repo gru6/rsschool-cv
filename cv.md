@@ -1,4 +1,4 @@
-# **Ilya Hrushevich**
+# **Ivan Krushevich**
 
 ## **Contacts**
 + **Location:** Minsk, Belarus
@@ -19,8 +19,8 @@ I'm a lawyer. I'm interested in world politics, economics, and social processes.
 ## **Code Example**
 ```
 function highAndLow(numbers) {
-    let arr = numbers.split(' ');
-    return Math.max.apply(null, arr) + ' ' + Math.min.apply(null, arr);
+  let arr = numbers.split(' ');
+  return Math.max.apply(null, arr) + ' ' + Math.min.apply(null, arr);
 }
 ```
 ## **Education** 
