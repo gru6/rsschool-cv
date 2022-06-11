@@ -1,4 +1,4 @@
-# **Ilya Hrushevich**
+# **Ivan Krushevich**
 
 ## **Contacts**
 + **Location:** Minsk, Belarus
