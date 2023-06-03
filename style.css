@@ -87,7 +87,7 @@ body {
   transition-property: box-shadow;
 }
 
-.section:hover,
+.section:hover,         
 section:focus {
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
   background-color: #f8f8f8;
@@ -102,7 +102,9 @@ section:focus {
 }
 
 .logotype {
+  width: 200px;
   mix-blend-mode: multiply;
+  border-radius: 80px;
 }
 
 .profile-title {
