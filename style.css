@@ -114,6 +114,7 @@ section:focus {
   width: 200px;
   mix-blend-mode: multiply;
   border-radius: 80px;
+  margin-right: 20px;
 }
 
 .profile-title {
